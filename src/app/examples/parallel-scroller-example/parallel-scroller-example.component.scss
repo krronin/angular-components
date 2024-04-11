@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;
+
+  thead {
+    tr {
+      border-bottom: 2px solid green;
+
+      th {
+        padding: 0 8px;
+        min-width: 60px;
+      }
+    }
+  }
+}
